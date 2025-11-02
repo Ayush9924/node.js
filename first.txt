@@ -1,0 +1,11 @@
+Path Module features:
+Path.parse()
+path .join()
+Path.resolve()
+Path.extname()
+Path.basename()
+Path.dirname()
+Path.
+
+
+

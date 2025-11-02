@@ -1,0 +1,3 @@
+hello am new am new
+this is zlib module
+end of file
