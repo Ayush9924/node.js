@@ -16,7 +16,7 @@ fs.promises.readFile(filePath, "utf-8")
     .catch((err) => console.error(err));
 
 //update file
-fs.promises.appendFile(filePath, "\n hello world", "utf-8")
+fs.promises.appendFile(fileevePath, "\n hello world", "utf-8")
     .then(console.log("file upadeted successfully"))
     .catch((err) => console.error(err));
 
